@@ -6,7 +6,7 @@
 
    - [Health-Care-Ransomware-Incident-Response Report](https://github.com/Elite-Techs/XYZ-Health-Care-Ransomware-Incident-Response-Plan/blob/main/README_XYZ_Health_Care.md)
      
-   - [Manufacturing-ICS-Cyber-Intrusion-Response-Plan](https://github.com/Elite-Techs/https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/README_XYZ.md)
+   - [Manufacturing-ICS-Cyber-Intrusion-Response-Plan](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/README_XYZ.md)
 
 
 - <b>PowerShell</b>
