@@ -14,10 +14,9 @@
 
 
 
-- <b>PowerShell</b>
+- <b>Web Development</b>
 
-  - [Active Directory Bulk User Creation](https://github.com/Elite-Techs/ActiveDirectoryLab/blob/main/README.md)
-    
+
 
 <h2> 🤳 Connect with me:</h2>
 
