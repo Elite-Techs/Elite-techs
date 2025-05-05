@@ -1,6 +1,8 @@
 <h1>Hi, I'm RIchard! <br/><a href="https://github.com/elite-techs">Programmer</a> and a <a href="https://www.linkedin.com/in/prince-richard-/">Cybersecurity Professional</a> </h1>
 
-- <b>CyberSecuity Reports</b>
+- <b>CyberSecuity</b>
+
+    - [Weekly SSH System Report Script](https://github.com/Elite-Techs/Weekly-SSH-System-Report-Script)
 
    - [Bank Phishing Attack Incident Response Plan](https://github.com/Elite-Techs/Financial-Incident-Response-Plan/blob/main/README_XYZ_Bank.md)
 
@@ -8,8 +10,7 @@
      
    - [Manufacturing-ICS-Cyber-Intrusion-Response-Plan](https://github.com/Elite-Techs/Manufacturing-ICS-Cyber-Intrusion-Response-Plan/blob/main/README_XYZ.md)
  
-   - [Retail-POS-Malware-Incident-Response-Plan](https://github.com/Elite-Techs/XYZ-Retail-POS-Malware-Incident-Response-Plan/blob/main/README_XYZ_Retail.md
-)
+   - [Retail-POS-Malware-Incident-Response-Plan](https://github.com/Elite-Techs/XYZ-Retail-POS-Malware-Incident-Response-Plan/blob/main/README_XYZ_Retail.md)
 
 
 
