@@ -1,4 +1,4 @@
-<h1>Hi, I'm RIchard! <br/><a href="https://github.com/elite-techs">Programmer</a> and a <a href="https://www.linkedin.com/in/prince-richard-/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Richard! <br/><a href="https://github.com/elite-techs">Programmer</a> and a <a href="https://www.linkedin.com/in/prince-richard-/">Cybersecurity Professional</a> </h1>
 
 - <b>CyberSecuity</b>
 
