@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Richard Osaro</h1>
-<h3 align="center"> Cybersecurity & SOC Analyst | Ethical Hacker | Automation & Cloud Security Enthusiast</h3>
+<h3 align="center"> Cybersecurity & SOC Analyst | IT Support Specialist | Automation & AI In Security Enthusiast</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated cyber security theme" style="max-width: 100%; height: auto; border-radius: 8px;" />
