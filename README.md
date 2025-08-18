@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity & SOC Analyst | IT Support Specialist | Security Automation & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cybersecurity Animation" width="600" style="border-radius: 12px;"/>
+  <img src="https://i.ibb.co/xJ5k3Jm/tech-banner.png" alt="Tech Gradient Banner" width="800"/>
 </p>
 
 ---
