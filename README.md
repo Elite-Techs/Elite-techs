@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hi, I'm Prince Richard Osaro</h1>
 <h3 align="center">Cybersecurity & SOC Analyst | IT Support Specialist | Security Automation & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/xJ5k3Jm/tech-banner.png" alt="Tech Gradient Banner" width="800"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated cyber security theme" style="max-width: 100%; height: auto; border-radius: 8px;" /> </p>
 
----
 
 ## 👨‍💻 About Me  
 
