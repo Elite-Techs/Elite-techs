@@ -1,72 +1,87 @@
 <h1 align="center">👋 Hi, I'm Prince Richard Osaro</h1>
-<h3 align="center">IT Support Specialist | Cybersecurity & SOC Analyst | Microsoft 365, Active Directory, Automation</h3>
+<h3 align="center">Cybersecurity & SOC Analyst | IT Support & System Admin | DevOps & Automation Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-I’m an **IT Support & Cybersecurity Analyst** passionate about building secure, automated, and resilient systems.  
-My hands-on experience spans **Microsoft 365, Active Directory, SOC monitoring, and automation with PowerShell/Python**.  
+I’m a **Cybersecurity Analyst and IT Support Professional** focused on building **secure, automated, and high-performing infrastructures**.  
+My work bridges **IT operations, SOC monitoring, and DevOps automation**, helping organizations stay resilient, efficient, and threat-aware.  
 
-💡 I enjoy streamlining IT operations, improving helpdesk efficiency, and strengthening defenses against cyber threats.  
-🌱 Always learning, collaborating, and applying new technologies to solve real-world problems.  
+💡 Passionate about simplifying complex IT environments using **PowerShell, Python, and GitHub Actions**.  
+🌱 Constantly learning and experimenting with **cloud, automation, and security technologies** to solve real-world challenges.  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🧰 Core Skills  
 
-- **IT Support & Systems Admin**: Microsoft 365, Active Directory, Windows Server, Intune  
-- **Cybersecurity & SOC**: SIEM (Splunk, Wazuh), Sysmon, Incident Response, Vulnerability Assessment (ZAP, Nmap, Burp)  
-- **Automation & Scripting**: PowerShell, Python, Bash  
-- **Networking**: TCP/IP, VPNs, DNS/DHCP, Firewalls, Wireshark  
-- **Service Desk**: Jira, ServiceNow, Freshservice  
+- **IT Support & SysAdmin**: Microsoft 365 • Active Directory • Intune • Windows Server  
+- **SOC & Cybersecurity**: Splunk • Wazuh • Sysmon • Incident Response • OWASP ZAP • Burp Suite  
+- **DevOps & Automation**: GitHub Actions • PowerShell • Python • Bash • CI/CD Pipelines  
+- **Networking**: TCP/IP • DNS/DHCP • VPN • Firewalls • Wireshark  
+- **Tools & Platforms**: Jira • ServiceNow • Freshservice • Azure • VirtualBox  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🛡️ Enterprise Active Directory Lab with SOC Integration  
-- Built an **enterprise-ready AD lab** with Windows Server 2022 & Windows 11 clients.  
-- Automated provisioning with **PowerShell** (cut manual setup by 70%).  
-- Integrated **Splunk + Sysmon** for real-time monitoring.  
-- Applied **CIS Group Policies** for enterprise-grade security.  
+
+### ⚙️ Self-Hosted GitHub Actions Runner (Infinion DevOps Assessment)  
+Configured and documented a **self-hosted CI/CD runner** for GitHub Actions.  
+- Set up a local runner to execute workflows securely  
+- Tested automation pipelines for CI tasks  
+- Implemented **security hardening and environment isolation**  
+🔗 [View Repo](https://github.com/Elite-Techs/infinion-devops-assessment)
+
+---
+
+### 🛡️ Enterprise Active Directory Lab with SOC & Automation Integration  
+Built a **multi-server enterprise lab** (Windows Server 2022 + Windows 11 clients) with full automation and security monitoring.  
+- Automated **AD deployment and provisioning** with PowerShell  
+- Integrated **Splunk + Sysmon** for real-time event analysis  
+- Applied **CIS-compliant Group Policies** for secure configurations  
 🔗 [Upcoming](https://github.com/Elite-Techs/Enterprise-AD-Lab)
 
 ---
 
-### 🔒 Church Donation Platform – Security Audit  
-- Audited a **donation system** using OWASP ZAP & Burp Suite.  
-- Identified vulnerabilities (XSS, input validation flaws) and recommended remediations.  
-- Delivered a professional **security audit report + GitHub repo**.  
+### 🔒 Church Donation System – Web Security Audit  
+Performed a **comprehensive security assessment** on a live donation platform.  
+- Identified **XSS, input validation, and configuration flaws**  
+- Documented findings and provided professional remediation steps  
+- Delivered a **security audit report** aligned with OWASP standards  
 🔗 [Upcoming](https://github.com/Elite-Techs/Church-Donation-Security-Audit)
 
+
 ---
 
-### ⚡ Weekly SSH System Report Script  
-- Automated **Linux server security reporting** with Bash.  
-- Scheduled via cron to send email digests of system health & login attempts.  
+### 🧩 Automated Linux Server Report Script  
+Developed a **Bash script** that generates weekly server security and performance reports.  
+- Tracks login attempts, disk usage, and service uptime  
+- Sends automated email summaries via cron jobs  
 🔗 [View Script](https://github.com/Elite-Techs/Weekly-SSH-System-Report-Script)
-
----
-
-## 📝 Blog & Writings  
-
-- [OSI Model Isn’t Just Theory — It’s Cybersecurity Warfare](https://medium.com/@princerichard547/osi-model-cybersecurity-warfare)  
-- More articles on **SOC workflows, IT Support hacks, and security awareness** coming soon!  
 
 ---
 
 ## 📜 Certifications  
 
-- **ISC2 Certified in Cybersecurity (CC)**  
-- **Google IT Support Certificate**  
-- **Google IT Automation with Python**  
-- **Google Cybersecurity & Cloud Cybersecurity Certificates**  
-- **IBM & ISC2 Cybersecurity Specialist**  
+- ISC2 **Certified in Cybersecurity (CC)**  
+- Google **IT Support Professional Certificate**  
+- Google **IT Automation with Python**  
+- Google **Cybersecurity & Cloud Cybersecurity Certificates**  
+- IBM & ISC2 **Cybersecurity Specialist Certificate**  
+- Microsoft **Cybersecurity Analyst & AI Fundamentals**  
 
 ---
 
-## 🌐 Connect with Me  
+## 📝 Articles & Knowledge Sharing  
+
+- 🧠 [OSI Model Isn’t Just Theory — It’s Cybersecurity Warfare](https://medium.com/@princerichard547/osi-model-cybersecurity-warfare)  
+- 🔐 Upcoming: *“Building Your First SOC Lab with Splunk & Wazuh”*  
+- 💻 Upcoming: *“Automating IT Tasks with PowerShell & GitHub Actions”*  
+
+---
+
+## 🌐 Let’s Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/prince-richard-o">
@@ -78,9 +93,12 @@ My hands-on experience spans **Microsoft 365, Active Directory, SOC monitoring, 
   <a href="https://medium.com/@princerichard547">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://github.com/Elite-Techs">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ **If you find my projects useful, please give them a star!**  
-💬 *I’m open to collaborations, mentoring beginners, and contributing to IT Support & Cybersecurity projects.* 🔐  
+⭐ **If you find my projects helpful, please give them a star!**  
+💬 *Open to collaborations, mentorship, and projects in Cybersecurity, DevOps, and IT Support.* 🚀
